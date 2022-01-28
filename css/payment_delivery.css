@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+body{
+    font-family: 'Cabin', sans-serif;
+    background-image: url(../img/c1fd037d-2805-4226-bd0b-75ef76877929.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+.logo-img{
+    max-width: 100px;
+}
+.logo-text{
+    color: rgb(92, 92, 92);
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(190, 181, 153);
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo-img:hover{
+    transform: scale(1.2);
+    transition-duration: 2s;
+    cursor: pointer;
+}
+.link{
+    display: flex;
+    justify-content: space-between;
+}
+.links{
+    color: black;
+    text-decoration: none;
+    padding-left: 16px;
+}
+.links:hover{
+    text-decoration: underline;
+    color: rgb(92, 92, 92);
+}
+.nav{
+    margin-top: 24px;
+} 
+.payment-1{
+    color: white;
+    background-color: rgb(122, 122, 122);
+    padding: 2px; 
+    text-align: center;
+}
+.pay{
+    background-color: rgb(190, 181, 153);
+    padding: 2px;
+    color: rgb(34, 32, 32);
+}
+.text{
+    margin-left: 10px;
+}
+.img{
+    margin-left: 10px;
+}
+.img-1{
+    max-width: 100px;
+    padding-bottom: 20px;
+}
+.img-2{
+    margin-left: 20px;
+    max-width: 120px;
+    padding-bottom: 17px;
+}
+.img-3{
+    margin-left: 20px;
+    max-width: 100px;
+    padding-bottom: 30px;
+}
+.img-4{
+    max-width: 120px;
+    padding-bottom: 8px;
+}
+.img-5{
+    margin-left: 8px;
+    max-width: 140px;
+    padding-bottom: 10px;
+}
+.img-6{
+    max-width: 130px;
+    padding-bottom: 25px;
+}
+.deliver-1{
+    color: white;
+    background-color: rgb(122, 122, 122);
+    padding: 2px; 
+    text-align: center;
+}
+.bring{
+    background-color: rgb(190, 181, 153);
+    padding: 2px;
+    color: rgb(34, 32, 32);  
+}
+.text-img{
+    display: flex;
+    justify-content: space-between;
+}
+.text-1{
+    margin-left: 10px;
+}
+.img2{
+    margin-left: 10px;
+}
+.img-7{
+    max-width: 100px;
+    margin-right: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    opacity: 0.8;
+}
+.delivery-text{
+    margin-left: 10px;
+}
+.delivery-text1{
+    margin-top: -28px;
+}
+.img-8{
+    margin-left: 10px;
+    max-width: 130px;
+    padding-bottom: 20px;
+}
+.img-9{
+    margin-left: 20px;
+    max-width: 120px;
+    padding-bottom: 25px;
+}
+.img-10{
+    max-width: 110px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+.img-11{
+    margin-left: 20px;
+    max-width: 120px;
+}
+.review{
+    padding-bottom: 5px;
+    line-height: 5px;
+    background-color: rgb(122, 122, 122);
+    padding: 2px;
+    padding-bottom: 5px;
+}
+.inscribe{
+    color: white;
+    text-align: center; 
+    margin-top: 10px;
+}
+.field{
+    background-color: rgb(189, 184, 184);
+    min-height: 25px;
+    border-radius: 8px;
+}
+.button{
+    background-color: rgb(189, 184, 184);
+    border-radius: 8px;
+    line-height: 18px;
+    margin-left: 15px;
+}
+.button-1{
+    display: flex; 
+    justify-content: center;
+    padding-bottom: 10px;
+}
+.footer{
+    opacity: 0.7;
+    background-color: rgb(189, 184, 184);
+    padding: 2px;
+    text-align: center;
+    line-height: 5px;
+    color: rgb(92, 92, 92);
+}
+.footer-1{
+    margin-top: 10px;
+}

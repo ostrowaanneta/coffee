@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+body{
+    font-family: 'Cabin', sans-serif;
+    background-image: url(../img/c1fd037d-2805-4226-bd0b-75ef76877929.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo-img{
+    max-width: 100px;
+}
+.logo-text{
+    color: rgb(92, 92, 92);
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(190, 181, 153);
+    opacity: 0.9;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo-img:hover{
+    transform: scale(1.2);
+    transition-duration: 2s;
+    cursor: pointer;
+}
+.link{
+    display: flex;
+    justify-content: space-between;
+}
+.links{
+    color: black;
+    text-decoration: none;
+    padding-left: 16px;
+}
+.links:hover{
+    text-decoration: underline;
+    color: rgb(92, 92, 92);
+}
+.nav{
+    margin-top: 24px;
+}
+.menu{
+    color: white;
+    background-color: rgb(122, 122, 122);
+    padding: 2px; 
+    text-align: center;
+}
+.honduras-1{
+    background-color: rgb(122, 122, 122);
+    min-height: 400px;
+    max-width: 300px;
+    border-radius: 5px;
+}
+.row-1{
+    background-color: rgb(190, 181, 153);
+    padding: 2px;
+    color: rgb(34, 32, 32); 
+    display: flex; 
+    justify-content: space-between;
+}
+.img1{
+    margin-top: 20px;
+    text-align: center
+}
+.img-1{
+    max-width: 200px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+.img-1:hover{
+    transform: scale(1.2);
+    transition-duration: 2s;
+}
+.colombia-1{
+    background-color: rgb(122, 122, 122);
+    min-height: 400px;
+    max-width: 300px;
+    border-radius: 5px;
+}
+.row-2{
+    background-color: rgb(190, 181, 153);
+    padding: 2px;
+    color: rgb(34, 32, 32);  
+    text-align: center;
+}
+.img2{
+    margin-top: 18px;
+    text-align: center;
+}
+.img-2{
+    max-width: 200px;
+    margin-top: 28px;
+    border-radius: 5px;
+}
+.img-2:hover{
+    transform: scale(1.2);
+    transition-duration: 2s;
+}
+.mexico-1{
+    background-color: rgb(122, 122, 122);
+    min-height: 400px;
+    max-width: 300px;
+    border-radius: 5px;
+}
+.row-3{
+    background-color: rgb(190, 181, 153);
+    padding: 2px;
+    color: rgb(34, 32, 32);  
+    text-align: center;
+}
+.img3{
+    margin-top: 18px;
+    text-align: center;
+}
+.img-3{
+    max-width: 200px;
+    margin-top: 28px;
+    border-radius: 5px;
+}
+.img-3:hover{
+    transform: scale(1.2);
+    transition-duration: 2s;
+}
+.brazil-0{
+    background-color: rgb(122, 122, 122);
+    min-height: 400px;
+    max-width: 300px;
+    border-radius: 5px;
+}
+.row-4{
+    background-color: rgb(190, 181, 153);
+    padding: 2px;
+    color: rgb(34, 32, 32); 
+    display: flex; 
+    justify-content: space-between;
+}
+.img4{
+    margin-top: 20px;
+    text-align: center
+}
+.img-4{
+    max-width: 200px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+.img-4:hover{
+    transform: scale(1.2);
+    transition-duration: 2s;
+}
+.brazil-3{
+    background-color: rgb(122, 122, 122);
+    min-height: 400px;
+    max-width: 300px;
+    border-radius: 5px;
+}
+.row-5{
+    background-color: rgb(190, 181, 153);
+    padding: 2px;
+    color: rgb(34, 32, 32);  
+    text-align: center;
+}
+.img5{
+    margin-top: 18px;
+    text-align: center;
+}
+.img-5{
+    max-width: 200px;
+    margin-top: 28px;
+    border-radius: 5px;
+}
+.img-5:hover{
+    transform: scale(1.2);
+    transition-duration: 2s;
+}
+.ethiopia-1{
+    background-color: rgb(122, 122, 122);
+    min-height: 400px;
+    max-width: 300px;
+    border-radius: 5px;
+}
+.row-6{
+    background-color: rgb(190, 181, 153);
+    padding: 2px;
+    color: rgb(34, 32, 32);  
+    text-align: center;
+}
+.img6{
+    margin-top: 18px;
+    text-align: center;
+}
+.img-6{
+    max-width: 200px;
+    margin-top: 28px;
+    border-radius: 5px;
+}
+.img-6:hover{
+    transform: scale(1.2);
+    transition-duration: 2s;
+}
+.footer{
+    opacity: 0.7;
+    background-color: rgb(189, 184, 184);
+    padding: 2px;
+    text-align: center;
+    line-height: 5px;
+    color: rgb(92, 92, 92);
+}
+.footer-1{
+    margin-top: 10px;
+}
+.text-1{
+    font-weight: 600;
+    margin-top: 10px;
+}
+.text{
+    margin-top: 20px;
+}

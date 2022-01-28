@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+body{
+    font-family: 'Cabin', sans-serif;
+    background-image: url(../img/c1fd037d-2805-4226-bd0b-75ef76877929.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo-img{
+    max-width: 100px;
+}
+.logo-text{
+    color: rgb(92, 92, 92);
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(190, 181, 153);
+    opacity: 0.9;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo-img:hover{
+    transform: scale(1.2);
+    transition-duration: 2s;
+    cursor: pointer;
+}
+.link{
+    display: flex;
+    justify-content: space-between;
+}
+.links{
+    color: black;
+    text-decoration: none;
+    padding-left: 16px;
+}
+.links:hover{
+    text-decoration: underline;
+    color: rgb(92, 92, 92);
+}
+.nav{
+    margin-top: 24px;
+}
+.brazil-2{
+    display: flex;
+    color: white;
+    opacity: 0.9;
+}
+.row-1{
+    background-color: rgb(122, 122, 122);
+}
+.img-0{
+    max-width: 400px;
+    margin: 10px;
+    opacity: 0.8;
+    border-radius: 5px;
+}
+.text{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.acidity{
+    display: flex;
+    opacity: 0.8;
+}
+.density{
+    margin-left: 30px;
+}
+.text-2{
+    font-size: 25px;
+    font-weight: 600;
+}
+.text-3{
+    text-align: justify;
+    padding-right: 30px;
+}
+.price{
+    font-size: 20px;
+    margin-left: 5px;
+}
+.button{
+    background-color: rgb(189, 184, 184);
+    border-radius: 8px;
+    font-size: 18px;
+}
+.button-1{
+    padding-bottom: 8px;
+}
+.button:hover{
+    cursor: pointer;
+}
+.footer{
+    opacity: 0.7;
+    background-color: rgb(189, 184, 184);
+    padding: 2px;
+    text-align: center;
+    line-height: 5px;
+    color: rgb(92, 92, 92);
+}
+.footer-1{
+    margin-top: 10px;
+}

@@ -1,0 +1,139 @@
+@media screen and (max-width: 992px) {
+    .coffee{
+        line-height: 30px;
+    } 
+    .dilivery{
+        line-height: 30px;
+    }   
+    .columns{
+        font-size: 15px;
+    }
+    .comments{
+        margin-right: 10px;
+        max-width: 650px;
+    }
+    .inscribe{
+        margin-top: 10px;
+    }
+    .reviews-2{
+        max-width: 200px;
+        margin-right: -170px;
+        margin-left: 30px;
+    }
+    .brazil-1{
+        max-height: 800px;
+    }
+    .img-1{
+        max-height: 480px;
+    }  
+}
+@media screen and (max-width: 768px) {
+    .link{
+        flex-direction: column;
+        text-align: center;
+    }
+    .text{
+        margin-top: -30px;
+    }
+    .img-coffee{
+        max-width: 200px;
+    }
+    .comments{
+        flex-direction: column;
+        text-align: justify;
+    }
+    .one{
+        margin-right: -120px;
+        text-align: center;
+    }
+    .comments-1{
+        flex-direction: column;
+    }
+    .text{
+        margin-top: 20px;
+    }
+    .img-1{
+        max-width: 100px;
+    } 
+    .story{
+        flex-direction: column;
+    }
+    .img-0{
+        margin-top: -40px;
+        max-width: 500px;
+        margin-bottom: 20px;
+        margin-left: 130px;
+    }
+}
+@media screen and (max-width: 576px) {
+    .link{
+        flex-direction: column;
+        text-align: center;
+    }
+    .img-0{
+        display: none;
+    }
+    .img-2{
+        display: none;     
+    }
+    .img-3{
+        display: none; 
+    }
+    .robusta{
+        margin-left: -30px;
+    }
+    .section{
+        flex-direction: column;
+    }
+    .video{
+        min-width: 515px;
+        margin-top: 1px;
+    }
+    .coffee{
+        margin-top: -40px;
+    }
+    .img-coffee{
+        display: none;
+    }
+    .information{
+        text-align: justify;
+    }
+    .one{
+        max-width: 500px;
+    }
+    .img-7{
+        display: none;
+    }
+    .delivery-text1{
+        padding-top: 15px;
+    }
+    .row-1{
+        flex-direction: column;
+        
+    }
+    .row-4{
+        flex-direction: column;
+    }
+    .honduras-1{
+        margin-top: 40px;
+        margin-left: 110px;
+    }
+    .colombia-1{
+        margin-left: 110px;
+    }
+    .mexico-1{
+        margin-left: 110px;
+    }
+    .brazil-0{
+        margin-left: 110px;
+    }
+    .brazil-3{
+        margin-left: 110px;
+    }
+    .ethiopia-1{
+        margin-left: 110px;
+    }
+    .img-0{
+        display: none;
+    }
+}
